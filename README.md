@@ -17,3 +17,9 @@
 - [ ] Linux 標準教科書（Ver.3.0.5）
 - [ ] 徹底攻略 Java SE 11 Silver 問題集
 - [ ] スッキリわかる SQL 入門
+
+## 2024-12
+- [ ] Linux 標準教科書（Ver.3.0.5）
+- [ ] 徹底攻略 Java SE 11 Silver 問題集
+- [ ] スッキリわかる SQL 入門
+- [ ] WEB APIの設計
